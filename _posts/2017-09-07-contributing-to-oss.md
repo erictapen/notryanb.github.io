@@ -44,20 +44,3 @@ TLDR;
 [web-ready]: http://www.arewewebyet.org/
 [Diesel]: http://www.diesel.rs
 [github issues]: https://github.com/diesel-rs/diesel/issues
-
-Writing my first post. Not sure what it'll be.
-
-> Here is a blockquote
-
-{% highlight rust %}
-
-let x = users.load::<User>(&*connection)
-    .expect("I wonder if this will highlight");
-
-{% endhighlight %}
-
-More stuff.
-
-
-
-

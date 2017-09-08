@@ -85,3 +85,11 @@ footer {
   padding: 1rem;
   background-color:#3f3f3f;
 }
+
+.post-meta {
+  color: #121212;
+
+  &:before {
+    content: ">";
+  }
+}

@@ -2,6 +2,7 @@
 layout: post
 title:  "cargo expand your mind"
 date:   2017-09-06
+author: "Ryan Blecher"
 categories: 
  - rust
 ---

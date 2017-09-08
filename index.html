@@ -10,7 +10,7 @@ layout: default
   {% for post in site.posts %}
     <div class="post">
       <a  href="{{ post.url | prepend: site.baseurl }}">
-        {{ post.title }}
+        [{{ post.date | date: "%Y.%m.%d"" }}] {{post.title}}
       </a>
     </div>
   {% endfor %}
